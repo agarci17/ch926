@@ -1,4 +1,4 @@
-//% color="#D4AF37" icon="\uf155" block="Moneder CH-926"
+//% color="#D4AF37" icon="\uf153" block="Moneder CH-926"
 namespace ch926 {
     let centimsTotals = 0
     let polsosMonedaActual = 0
